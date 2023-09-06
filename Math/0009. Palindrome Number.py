@@ -12,5 +12,5 @@ def isPalindrome(x):
         return False
    
 #Test
-a = input()
-print(isPalindrome(a))
+x = input()
+print(isPalindrome(x))
