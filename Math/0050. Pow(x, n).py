@@ -41,22 +41,6 @@ class Solution:
     def myPow(self, x: float, n: int) -> float:
         return self.binaryExp(x, n)
 
-#Complicated version
-'''
-def myPow(x, n):
-    sign = x>=0
-    unsign_x = abs(x)
-    if unsign_x==1:
-        if sign:
-            return 1
-        elif n%2:
-            return -1
-        else:
-            return 1
-    # x = (sign) a*10^b
-    a, b = x, 1
-    if a
-'''
       
 #Test
 x = float(input())
