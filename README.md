@@ -1,2 +1,2 @@
 # Leetcode
-I will put some interesting problems in this repositories.
+會持續更新在Leetcode網站上的學習狀況
